@@ -28,7 +28,7 @@ This repository showcases interactive dashboards and analytical reports built us
 ## 🔹 Dashboard Previews
 | Walmart Dashboard (Excel) | Retail Sales Executive Insights (Power BI) |
 |----------------------------|--------------------------------------------|
-| ![Walmart Dashboard](images/walmart_dashboard.png) | ![Retail Sales Executive Insights](images/retail_sales_insights.png) |
+| ![Walmart Dashboard]() | ![Retail Sales Executive Insights]() |
 
 ---
 
